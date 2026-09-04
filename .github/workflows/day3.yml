@@ -131,4 +131,3 @@ jobs:
           echo "Event: ${{ github.event_name }}"
           echo "Actor: ${{ github.actor }}"
           echo "Commit: ${{ github.sha }}"
-```
